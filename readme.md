@@ -3,8 +3,8 @@ Desenvolvi esse aplicativo baseado em um projeto realizado no curso do Sujeito p
 
 # Tela inicial
 
-![1](1.png)
+![1](1.png) ![2](2.png)
 
 # Opções de moedas
 
-![2](2.png)
+
